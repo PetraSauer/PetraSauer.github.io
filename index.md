@@ -19,7 +19,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 
  
-<img src="/assets/apple-touch-icon.png" alt="Petra Sauer" style="max-width: 100%;" />
+<img src="/assets/PetraSauer.jpg" alt="Petra Sauer" style="max-width: 100%;" />
  
 </div>
 
