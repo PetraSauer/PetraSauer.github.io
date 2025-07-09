@@ -6,7 +6,7 @@ title: Home
 ### Title ###
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem;">
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 2; min-width: 300px;">
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
