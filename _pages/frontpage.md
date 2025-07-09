@@ -17,7 +17,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 <div style="flex: 1; min-width: 300px;">
 
-![Descriptive Alt Text](/assets/apple-touch.icon.png)
+
+![Descriptive Alt Text](/assets/apple-touch-icon.png)
 
 </div>
 
