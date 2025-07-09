@@ -1,3 +1,3 @@
-![image](/assets/apple-touch-icon.png){: style="float: left"}
+![image](/assets/apple-touch-icon.png){: style="float: right"}
 
 Some Text
