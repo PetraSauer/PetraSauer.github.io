@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: "CV"
+author: "Petra Sauer"
+permalink: /cv/
+---
 
 ##### CONTACT INFORMATION 
 University of Fribourg
