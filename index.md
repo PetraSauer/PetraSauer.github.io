@@ -18,7 +18,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 <div style="flex: 1; min-width: 300px;">
 
 
-![Image](/assets/apple-touch-icon.png)
+ 
+<img src="/assets/apple-touch-icon.png" alt="Petra Sauer" />
 
 </div>
 
