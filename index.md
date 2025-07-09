@@ -15,7 +15,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 200px;">
 
 
  
