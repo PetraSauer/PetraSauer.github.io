@@ -5,6 +5,8 @@ title: Home
 
  
 <!-- <img src="/assets/PetraSauer.jpg" alt="Petra Sauer" style=""float: right; margin: 0 0 1rem 1rem; width: 300px;" /> -->
+ <br>
+ <br>
  
  ![Petra Sauer](/assets/PetraSauer.jpg){: style="float: right; margin: 0 0 1rem 1rem; width: 300px;"}
 
