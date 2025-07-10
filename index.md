@@ -22,4 +22,4 @@ I teach Sociology of Education and Work at the BA, and quantitative methods at t
 [A link]
 
 
-[A link]: http://kramdown.gettalong.org
+[A link]: http://kramdown.gettalong.org {:target="_blank"}
