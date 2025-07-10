@@ -5,7 +5,7 @@ title: Home
 
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; margin: 2rem 0 0 0;">
 <br>
 <br>
 <div style="flex: 2; min-width: 300px;">
