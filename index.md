@@ -6,8 +6,6 @@ title: Home
 
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; margin: 2rem 0 0 0;">
-<br>
-<br>
 <div style="flex: 2; min-width: 300px;">
 
 I am postdoctoral researcher in the division of Sociology, Social Policy and Social Research at the [University of Fribourg](https://www.unifr.ch), and senior researcher at the [Vienna University of Economics and Business (WU)](https://www.wu.ac.at/). Befor that, I was (LIS)2ER Tony Atkinson Research Fellow at the Luxembourg Institute of Socio-economic Research (LISER) and the Luxembourg Income Study (LIS) where I have contributed to strengthening the integration of research on social stratification, education, and the labour market within the institutes’ research agendas.
