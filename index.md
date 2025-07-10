@@ -19,7 +19,7 @@ In my research, I focus on social inequality, its dynamics across time and conte
 
 I teach Sociology of Education and Work at the BA, and quantitative methods at the MA level.
 
-[A link]
+[A link]{:target="_blank"}
 
 
-[A link]: http://kramdown.gettalong.org{:target="_blank"}
+[A link]: http://kramdown.gettalong.org
